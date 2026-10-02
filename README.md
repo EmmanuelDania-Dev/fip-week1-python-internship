@@ -14,11 +14,6 @@ The calculator supports the four basic arithmetic operations:
 
 It also includes custom exceptions for unsupported operations and division by zero.
 
-## Demo Video
-## Demo
-
-Watch the Week 1 calculator demo: https://drive.google.com/file/d/1S3UC7CnhVrUD10aKQhDZOtHX9UhSunw4/view?usp=sharing
-
 - Interactive command-line interface
 
 - Addition, subtraction, multiplication, and division
@@ -34,6 +29,10 @@ Watch the Week 1 calculator demo: https://drive.google.com/file/d/1S3UC7CnhVrUD1
 - Uses Python dataclasses to represent calculations
 
 - Clean separation between the CLI, calculator logic, operations, models, and errors
+
+## Demo
+
+Watch the Week 1 calculator demo: https://drive.google.com/file/d/1S3UC7CnhVrUD10aKQhDZOtHX9UhSunw4/view?usp=sharing
 
 ## Project Structure
 
