@@ -14,7 +14,10 @@ The calculator supports the four basic arithmetic operations:
 
 It also includes custom exceptions for unsupported operations and division by zero.
 
-## Features
+## Demo Video
+## Demo
+
+[Watch the Week 1 calculator demo]([text](https://drive.google.com/file/d/1S3UC7CnhVrUD10aKQhDZOtHX9UhSunw4/view?usp=sharing))
 
 - Interactive command-line interface
 
